@@ -9,6 +9,9 @@ The biggest takeaways I had were learning how to lift states and pass functions/
 
 I also learned how to incorporate the html2pdf dependency into my project to turn my HTML resume template into a pdf for users to download. 
 
+Link to Github Pages:
+https://Warlyzerl.github.io/CV-builder-app
+
 Home page:
 <img src="Working-page.png" alt="working-page" title="working-page">
 
