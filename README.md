@@ -9,6 +9,12 @@ The biggest takeaways I had were learning how to lift states and pass functions/
 
 I also learned how to incorporate the html2pdf dependency into my project to turn my HTML resume template into a pdf for users to download. 
 
+Home page:
+<img src="Working-page.png" alt="working-page" title="working-page">
+
+Preview page:
+<img src="Preview-page.png" alt="preview-page" title="preview-page">
+
 Example image of a resume my App produces:
 
 <img src="test-1.png" alt="Resume" title="Resume">
